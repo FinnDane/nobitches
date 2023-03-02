@@ -21,3 +21,8 @@ $ no piping > nobitches.png
 
 $ no bitches | base64 -w0
 ```
+
+## Installation
+
+1. `git clone https://github.com/FinnDane/nobitches $ZSH_CUSTOM/plugins/nobitches`
+2. Add the plugin `nobitches` in your `.zshrc` file.
