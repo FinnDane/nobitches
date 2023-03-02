@@ -22,7 +22,6 @@ This function is a simple wrapper of `nobitches` that uses its arguments as inpu
 $ no piping
 
 $ no bitches | base64 -w0
-
 ```
 
 ## Installation
